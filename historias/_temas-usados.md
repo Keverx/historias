@@ -4,12 +4,14 @@ Lee este archivo antes de proponer o escribir una historia. No repitas el tema, 
 
 ## Temas elegidos y escritos
 
-| Fecha | Género | Slug | Tema | Archivo |
-|---|---|---|---|---|
-| 2026-10-21 | venganza | informe-firmado | El jefe hace firmar hojas en blanco al contador; años después lo acusan de fraude y el narrador lo hunde con las fotos que tomó de esas hojas | historias/informe-firmado-2026-10-21.txt |
-| 2026-10-27 | venganza | cuentas-claras | Pareja desvía fondos del emprendimiento mutuo hacia una doble vida; el narrador reestructura balances y cuentas a su nombre, dejándola sin un centavo al intentar separarse | historias/cuentas-claras-2026-10-27.txt |
-| 2026-10-31 | venganza | negocio-familiar | Hermano menor cambia cerraduras y se apropia del taller de refrigeración familiar; el narrador se lleva el conocimiento técnico y los clientes | historias/negocio-familiar-2026-10-31.txt |
-| 2026-11-08 | venganza | ascenso-envenenado | Colega traidor roba crédito y reporta errores del narrador para ganar jefatura; el protagonista se vuelve su mano derecha y lo impulsa a liderar una expansión en un predio con clausura ambiental histórica, haciendo que firme todo solo | historias/ascenso-envenenado-2026-11-08.txt |
+| Fecha | Género | Slug | Tema | Relación | Ambiente u oficio | Tipo de trampa | Objeto ancla | Archivo |
+|---|---|---|---|---|---|---|---|---|
+| 2026-10-21 | venganza | informe-firmado | El jefe hace firmar hojas en blanco al contador; años después lo acusan de fraude y el narrador lo hunde con las fotos que tomó de esas hojas | Jefe / contador | Contabilidad | Hojas firmadas en blanco + fotos | Hojas de firma | historias/informe-firmado-2026-10-21.txt |
+| 2026-10-27 | venganza | cuentas-claras | Pareja desvía fondos del emprendimiento mutuo hacia una doble vida; el narrador reestructura balances y cuentas a su nombre, dejándola sin un centavo al intentar separarse | Pareja / socios | Tostaduría de café | Registro unipersonal previo y reestructuración | Hoja de cálculo compartida | historias/cuentas-claras-2026-10-27.txt |
+| 2026-10-31 | venganza | negocio-familiar | Hermano menor cambia cerraduras y se apropia del taller de refrigeración familiar; el narrador se lleva el conocimiento técnico y los clientes | Hermanos | Taller de refrigeración | Llevarse cartera de clientes y conocimiento técnico | Careta / herramientas de taller | historias/negocio-familiar-2026-10-31.txt |
+| 2026-11-08 | venganza | ascenso-envenenado | Colega traidor roba crédito y reporta errores del narrador para ganar jefatura; el protagonista se vuelve su mano derecha y lo impulsa a liderar una expansión en un predio con clausura ambiental histórica, haciendo que firme todo solo | Colegas de oficina | Logística / bodegas | Proyecto de depósito clausurado firmado con clave propia | Portaminas metálico | historias/ascenso-envenenado-2026-11-08.txt |
+| 2026-11-11 | venganza | ascenso-envenenado-v2 | Reescritura orgánica con vínculo de clínica, taza amarilla ancla y confrontación en vivo ante auditoría | Colegas de oficina | Logística / bodegas | Proyecto de depósito clausurado firmado con clave propia | Taza amarilla picada | historias/ascenso-envenenado-2026-11-11.txt |
+| 2026-11-11 | venganza | ascenso-envenenado-v3 | Versión final optimizada para audio neutro, sin clichés ni groserías, trazabilidad total de pruebas, humillación en piso abierto y confrontación cara a cara | Colegas de oficina / amigos | Logística / distribución | Reabrir depósito clausurado firmando seguridad falsa por bono | Taza amarilla picada "El Cerebro" | historias/ascenso-envenenado-2026-11-11-2.txt |
 
 ## Temas propuestos (no usar igual)
 
