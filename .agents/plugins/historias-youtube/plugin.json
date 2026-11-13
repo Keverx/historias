@@ -1,0 +1,12 @@
+{
+  "name": "historias-youtube",
+  "displayName": "Historias YouTube",
+  "version": "1.0.0",
+  "description": "Sistema multi-agente en español para diseñar, redactar por bloques y auditar historias de confesión estilo Reddit para YouTube con mejora continua.",
+  "suggestedPrompts": [
+    "Crea una historia nueva eligiendo un tema y género que no hayamos usado",
+    "Escribe una historia basada en la idea que te voy a dar",
+    "Audita y mejora el último borrador de la carpeta historias"
+  ]
+}
+
